@@ -1,0 +1,69 @@
+D:\ProjetsC#\GSB\GSB\bin\Debug\GSB.exe.config
+D:\ProjetsC#\GSB\GSB\bin\Debug\GSB.exe
+D:\ProjetsC#\GSB\GSB\bin\Debug\GSB.pdb
+D:\ProjetsC#\GSB\GSB\obj\Debug\iu.csprojResolveAssemblyReference.cache
+D:\ProjetsC#\GSB\GSB\obj\Debug\GSB.Properties.Resources.resources
+D:\ProjetsC#\GSB\GSB\obj\Debug\iu.csproj.GenerateResource.Cache
+D:\ProjetsC#\GSB\GSB\obj\Debug\iu.csproj.CoreCompileInputs.cache
+D:\ProjetsC#\GSB\GSB\obj\Debug\GSB.exe
+D:\ProjetsC#\GSB\GSB\obj\Debug\GSB.pdb
+D:\ProjetsC#\GSB\GSB\obj\Debug\GSB.frmIdentification.resources
+D:\ProjetsC#\GSB\GSB\bin\Debug\dao.dll
+D:\ProjetsC#\GSB\GSB\bin\Debug\MySql.Data.dll
+D:\ProjetsC#\GSB\GSB\bin\Debug\dao.pdb
+D:\ProjetsC#\GSB\GSB\bin\Debug\metier.dll
+D:\ProjetsC#\GSB\GSB\bin\Debug\metier.pdb
+D:\ProjetsC#\GSB\GSB\obj\Debug\GSB.frmComptaListeFiches.resources
+D:\ProjetsC#\GSB\GSB\obj\Debug\GSB.frmComptaFiche.resources
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\bin\Debug\GSB.exe.config
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\bin\Debug\GSB.exe
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\bin\Debug\GSB.pdb
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\bin\Debug\dao.dll
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\bin\Debug\metier.dll
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\bin\Debug\MySql.Data.dll
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\bin\Debug\dao.pdb
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\bin\Debug\metier.pdb
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\obj\Debug\iu.csprojAssemblyReference.cache
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\obj\Debug\GSB.frmComptaFiche.resources
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\obj\Debug\GSB.frmComptaListeFiches.resources
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\obj\Debug\GSB.frmIdentification.resources
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\obj\Debug\GSB.Properties.Resources.resources
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\obj\Debug\iu.csproj.GenerateResource.cache
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\obj\Debug\iu.csproj.CoreCompileInputs.cache
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\obj\Debug\iu.csproj.CopyComplete
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\obj\Debug\GSB.exe
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\GSB\obj\Debug\GSB.pdb
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\GSB\bin\Debug\GSB.exe.config
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\GSB\bin\Debug\GSB.exe
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\GSB\bin\Debug\GSB.pdb
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\GSB\bin\Debug\dao.dll
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\GSB\bin\Debug\metier.dll
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\GSB\bin\Debug\MySql.Data.dll
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\GSB\bin\Debug\dao.pdb
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\GSB\bin\Debug\metier.pdb
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\GSB\obj\Debug\iu.csprojResolveAssemblyReference.cache
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\GSB\obj\Debug\GSB.frmComptaFiche.resources
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\GSB\obj\Debug\GSB.frmComptaListeFiches.resources
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\GSB\obj\Debug\GSB.frmIdentification.resources
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\GSB\obj\Debug\GSB.Properties.Resources.resources
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\GSB\obj\Debug\iu.csproj.GenerateResource.Cache
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\GSB\obj\Debug\GSB.exe
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\GSB\obj\Debug\GSB.pdb
+E:\GSB\GSB\bin\Debug\GSB.exe.config
+E:\GSB\GSB\bin\Debug\GSB.exe
+E:\GSB\GSB\bin\Debug\GSB.pdb
+E:\GSB\GSB\bin\Debug\dao.dll
+E:\GSB\GSB\bin\Debug\metier.dll
+E:\GSB\GSB\bin\Debug\MySql.Data.dll
+E:\GSB\GSB\bin\Debug\dao.pdb
+E:\GSB\GSB\bin\Debug\metier.pdb
+E:\GSB\GSB\obj\Debug\iu.csprojResolveAssemblyReference.cache
+E:\GSB\GSB\obj\Debug\GSB.frmComptaFiche.resources
+E:\GSB\GSB\obj\Debug\GSB.frmComptaListeFiches.resources
+E:\GSB\GSB\obj\Debug\GSB.frmIdentification.resources
+E:\GSB\GSB\obj\Debug\GSB.frmNouvelleFicheFrais.resources
+E:\GSB\GSB\obj\Debug\GSB.Properties.Resources.resources
+E:\GSB\GSB\obj\Debug\iu.csproj.GenerateResource.Cache
+E:\GSB\GSB\obj\Debug\GSB.exe
+E:\GSB\GSB\obj\Debug\GSB.pdb
+E:\GSB\GSB\obj\Debug\GSB.CreationFicheFrais.resources

@@ -1,0 +1,6 @@
+H:\C#\TP2 Ex1\TP2 Ex1\obj\Debug\TP2 Ex1.csprojResolveAssemblyReference.cache
+H:\C#\TP2 Ex1\TP2 Ex1\bin\Debug\TP2 Ex1.exe.config
+H:\C#\TP2 Ex1\TP2 Ex1\bin\Debug\TP2 Ex1.exe
+H:\C#\TP2 Ex1\TP2 Ex1\bin\Debug\TP2 Ex1.pdb
+H:\C#\TP2 Ex1\TP2 Ex1\obj\Debug\TP2 Ex1.exe
+H:\C#\TP2 Ex1\TP2 Ex1\obj\Debug\TP2 Ex1.pdb

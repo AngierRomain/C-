@@ -1,0 +1,9 @@
+E:\C#\Emprunt\Emprunt\bin\Debug\Emprunt.exe.config
+E:\C#\Emprunt\Emprunt\bin\Debug\Emprunt.exe
+E:\C#\Emprunt\Emprunt\bin\Debug\Emprunt.pdb
+E:\C#\Emprunt\Emprunt\obj\Debug\Emprunt.csprojResolveAssemblyReference.cache
+E:\C#\Emprunt\Emprunt\obj\Debug\Emprunt.frmEmprunt.resources
+E:\C#\Emprunt\Emprunt\obj\Debug\Emprunt.Properties.Resources.resources
+E:\C#\Emprunt\Emprunt\obj\Debug\Emprunt.csproj.GenerateResource.Cache
+E:\C#\Emprunt\Emprunt\obj\Debug\Emprunt.exe
+E:\C#\Emprunt\Emprunt\obj\Debug\Emprunt.pdb

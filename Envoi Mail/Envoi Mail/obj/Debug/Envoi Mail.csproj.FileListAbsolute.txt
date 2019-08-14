@@ -1,0 +1,35 @@
+F:\C#\Envoi Mail\Envoi Mail\bin\Debug\Envoi Mail.exe.config
+F:\C#\Envoi Mail\Envoi Mail\bin\Debug\Envoi Mail.exe
+F:\C#\Envoi Mail\Envoi Mail\bin\Debug\Envoi Mail.pdb
+F:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi_Mail.Form1.resources
+F:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi_Mail.Properties.Resources.resources
+F:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi Mail.csproj.GenerateResource.Cache
+F:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi Mail.exe
+F:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi Mail.pdb
+F:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi Mail.csprojResolveAssemblyReference.cache
+F:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi_Mail.Form2.resources
+F:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi_Mail.Form3.resources
+I:\C#\Envoi Mail\Envoi Mail\bin\Debug\Envoi Mail.exe.config
+I:\C#\Envoi Mail\Envoi Mail\bin\Debug\Envoi Mail.exe
+I:\C#\Envoi Mail\Envoi Mail\bin\Debug\Envoi Mail.pdb
+I:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi Mail.csprojAssemblyReference.cache
+I:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi_Mail.Properties.Resources.resources
+I:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi Mail.csproj.GenerateResource.cache
+I:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi Mail.csproj.CoreCompileInputs.cache
+I:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi Mail.exe
+I:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi Mail.pdb
+G:\C#\Envoi Mail\Envoi Mail\bin\Debug\Envoi Mail.exe.config
+G:\C#\Envoi Mail\Envoi Mail\bin\Debug\Envoi Mail.exe
+G:\C#\Envoi Mail\Envoi Mail\bin\Debug\Envoi Mail.pdb
+G:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi Mail.csprojResolveAssemblyReference.cache
+G:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi_Mail.Form1.resources
+G:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi_Mail.Form2.resources
+G:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi_Mail.Form3.resources
+G:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi_Mail.Properties.Resources.resources
+G:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi Mail.csproj.GenerateResource.Cache
+G:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi Mail.exe
+G:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi Mail.pdb
+I:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi_Mail.EnvoiMail.resources
+I:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi_Mail.Serveurs.resources
+I:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi_Mail.Contacts.resources
+I:\C#\Envoi Mail\Envoi Mail\obj\Debug\Envoi_Mail.adresses.resources

@@ -1,0 +1,3 @@
+smtp.orange.fr;
+smtp.free.fr;
+smtp.sfr.fr;

@@ -1,0 +1,26 @@
+D:\ProjetsC#\GSB\metier\obj\Debug\metier.csproj.CoreCompileInputs.cache
+D:\ProjetsC#\GSB\metier\bin\Debug\metier.dll
+D:\ProjetsC#\GSB\metier\bin\Debug\metier.pdb
+D:\ProjetsC#\GSB\metier\obj\Debug\metier.dll
+D:\ProjetsC#\GSB\metier\obj\Debug\metier.pdb
+D:\ProjetsC#\GSB\metier\obj\Debug\metier.csprojResolveAssemblyReference.cache
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\metier\bin\Debug\metier.dll
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\metier\bin\Debug\metier.pdb
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\metier\obj\Debug\metier.csprojAssemblyReference.cache
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\metier\obj\Debug\metier.csproj.CoreCompileInputs.cache
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\metier\obj\Debug\metier.dll
+F:\2018-2019\PPE-SIO1B\PPE.2.4 - GSB\GSB\metier\obj\Debug\metier.pdb
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\metier\bin\Debug\metier.dll
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\metier\bin\Debug\metier.pdb
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\metier\obj\Debug\metier.csprojResolveAssemblyReference.cache
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\metier\obj\Debug\metier.dll
+E:\COURS\PPE\PPE 2\PPE 2.4\GSB\metier\obj\Debug\metier.pdb
+E:\GSB\metier\bin\Debug\metier.dll
+E:\GSB\metier\bin\Debug\metier.pdb
+E:\GSB\metier\obj\Debug\metier.csprojResolveAssemblyReference.cache
+E:\GSB\metier\obj\Debug\metier.dll
+E:\GSB\metier\obj\Debug\metier.pdb
+E:\GSB\metier\bin\Debug\MySql.Data.dll
+E:\GSB\metier\bin\Debug\MySql.Web.dll
+E:\GSB\metier\bin\Debug\MySql.Data.xml
+E:\GSB\metier\bin\Debug\MySql.Web.xml

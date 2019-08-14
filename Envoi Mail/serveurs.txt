@@ -1,0 +1,16 @@
+smtp.neuf.fr
+smtp.aliceadsl.fr
+smtp.aol.com
+outbound.att.net
+smtpauths.bluewin.ch
+smtp.bouygtel.fr
+mail.club-internet.fr
+smtp.free.fr
+smtp.gmail.com
+smtp.ifrance.fr
+smtp.live.com
+smtp.laposte.fr
+smtp.netcourrier.com
+smtp.orange.fr
+smtp.wanadoo.fr
+mail.yahoo.com
